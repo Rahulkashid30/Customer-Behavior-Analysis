@@ -129,7 +129,7 @@ README.md
 ---
 
 ## 👤 Author
-**Kirtesh Bhangale**  
+**Rahul Kashid**  
 Data Analyst skilled in SQL, Power BI, Python, ETL, and predictive analytics. Passionate about building dashboards, analyzing data, and solving real-world problems through analytics.
-📧 Email: kirteshbhangale19@gmail.com
-🔗 GitHub: github.com/kirteshbhangale
+📧 Email: rahulkashid207@gmail.com
+
